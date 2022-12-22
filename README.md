@@ -1,21 +1,15 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Html Page Capture
-
-My Chrome Extension
+# HTML_S3_Uploader Chrome Extension
+A chrome extension that allows you to save AWS credentials and S3 bucket name and upload the current tab HTML as an HTML file to the S3 bucket
 
 ## Features
 
 - Feature 1
 - Feature 2
 
-## Install
 
-[**Chrome** extension]() <!-- TODO: Add chrome extension link inside parenthesis -->
+## Developer 
+K.Janarthanan
 
-## Contribution
+## Blog
 
-Suggestions and pull requests are welcomed!.
-
----
-
-This project was bootstrapped with [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli)
 
