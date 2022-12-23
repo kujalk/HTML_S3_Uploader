@@ -1,7 +1,7 @@
 {
-  "name": "html-page-capture",
+  "name": "html-page-to-s3-file-upload",
   "version": "0.1.0",
-  "description": "My Chrome Extension",
+  "description": "A chrome extension that allows you to save AWS credentials and S3 bucket name and upload the current tab HTML as an HTML file to the S3 bucket.",
   "private": true,
   "scripts": {
     "watch": "webpack --mode=development --watch --config config/webpack.config.js",

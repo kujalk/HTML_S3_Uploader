@@ -13,6 +13,6 @@
     "default_title": "Html Page Capture",
     "default_popup": "popup.html"
   },
-  "permissions": ["storage", "activeTab","scripting","tabs"],
+  "permissions": ["storage", "activeTab", "scripting", "tabs"],
   "host_permissions": ["https://*/*"]
 }
