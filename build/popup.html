@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="popup.css" />
+    <title>AWS S3 File Uploader</title>
+  </head>
+
+  <body>
+    <h1>AWS S3 File Uploader</h1>
+    <form>
+      <label for="accessKeyId">Access Key ID:</label>
+      <input type="text" id="accessKeyId" name="accessKeyId" /><br /><br />
+
+      <label for="secretAccessKey">Secret Access Key:</label>
+      <input
+        type="text"
+        id="secretAccessKey"
+        name="secretAccessKey"
+      /><br /><br />
+
+      <label for="bucketName">Bucket Name:</label>
+      <input type="text" id="bucketName" name="bucketName" /><br /><br />
+
+      <input id="SaveCred" type="button" value="Save Credentials" />
+      <br /><br />
+      <input id="Upload" type="button" value="Upload HTML" />
+    </form>
+    <br />
+    <div id="status"></div>
+    <script src="popup.js"></script>
+  </body>
+</html>
