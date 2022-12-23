@@ -19,6 +19,6 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
-    "aws-sdk": "^2.1279.0"
+    "@aws-sdk/client-s3": "^3.236.0"
   }
 }
