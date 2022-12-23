@@ -3,8 +3,8 @@ A chrome extension that allows you to save AWS credentials and S3 bucket name an
 
 ## Features
 
-- Feature 1
-- Feature 2
+- Upload current html tab page directly to aws s3
+- 1 time configuration setup 
 
 
 ## Developer 
