@@ -13,3 +13,8 @@ K.Janarthanan
 ## Blog
 https://scripting4ever.wordpress.com/2022/12/23/a-chrome-extension-to-upload-current-html-page-to-aws-s3-bucket/
 
+## Diagram
+
+### Error without cred
+![alt text](https://github.com/kujalk/HTML_S3_Uploader/blob/main/blog-diagram/error_without_cred.png)
+
