@@ -11,5 +11,5 @@ A chrome extension that allows you to save AWS credentials and S3 bucket name an
 K.Janarthanan
 
 ## Blog
-
+https://scripting4ever.wordpress.com/2022/12/23/a-chrome-extension-to-upload-current-html-page-to-aws-s3-bucket/
 
